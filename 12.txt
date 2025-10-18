@@ -1,0 +1,7 @@
+name=hasti
+age=18
+background=kurdish
+area=uk
+fav_food=pizza
+hobby=photography
+career=software_engineer
